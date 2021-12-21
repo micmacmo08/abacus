@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abacus_1.2", "Abacus_1.2\Abacus_1.2.csproj", "{32905A93-6F1D-48FC-9338-9A1E8BE7D6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32905A93-6F1D-48FC-9338-9A1E8BE7D6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32905A93-6F1D-48FC-9338-9A1E8BE7D6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32905A93-6F1D-48FC-9338-9A1E8BE7D6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32905A93-6F1D-48FC-9338-9A1E8BE7D6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1132E59F-BCAE-404C-8071-CED94351A9A2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cs2450-team3.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Abacus_1.2\\Abacus_1.2.csproj
+		SccProjectName1 = Abacus_1.2
+		SccLocalPath1 = Abacus_1.2
+	EndGlobalSection
+EndGlobal
